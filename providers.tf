@@ -1,5 +1,4 @@
 provider "aws" {
-  region = "us-west-1"
-  access_key = "YOUR-ACCESS-KEY"
-  secret_key = "YOUR-SECRET-KEY"
+  region  = "us-west-2"
+  profile = "odt-tf"
 }
